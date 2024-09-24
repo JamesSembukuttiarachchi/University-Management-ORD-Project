@@ -1,4 +1,4 @@
-# University Management ORD Project
+## Project Overview
 This project implements a University Management System using PostgreSQL as the object-relational database. It demonstrates the use of object-relational features such as composite types and table inheritance to model various entities within a university context, including students, professors, courses, and enrollments.
 
 ## Features
